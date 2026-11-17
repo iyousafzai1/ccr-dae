@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "CCR-DAE: Configuration-Conditioned Residual Denoising-Autoencoder Recommender"
+abstract: >-
+  Reference implementation of CCR-DAE, a meta-learning recommender that selects
+  a classification algorithm and its hyperparameters for a dataset on which no
+  configuration has been evaluated.
+type: software
+license: MIT
+authors:
+  - family-names: Khan
+    given-names: Irfan
+  - family-names: Ayyasamy
+    given-names: Ramesh Kumar
+  - family-names: Zhang
+    given-names: Miao
+  - family-names: Alam
+    given-names: Saqib
+  - family-names: Zhang
+    given-names: Xiaojun
+preferred-citation:
+  type: article
+  title: "Meta-Learning with Denoised Representations for Cold-Start Algorithm Selection"
+  journal: "Computer Modeling in Engineering & Sciences"
+  year: 2026
+  authors:
+    - family-names: Khan
+      given-names: Irfan
+    - family-names: Ayyasamy
+      given-names: Ramesh Kumar
+    - family-names: Zhang
+      given-names: Miao
+    - family-names: Alam
+      given-names: Saqib
+    - family-names: Zhang
+      given-names: Xiaojun

@@ -1,0 +1,17 @@
+# experiment inputs and outputs (not distributed)
+data/
+results/
+docs/
+*.csv
+*.xlsx
+*.xls
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# os
+.DS_Store
